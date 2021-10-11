@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 
 title: [Erwin D. Glockner]
 description: [Let me tell you a bit about myself and my projects.]
-logo: [/docs/assets/img/logo.png]
+logo: /docs/assets/img/logo.png
