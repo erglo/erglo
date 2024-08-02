@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Erwin D. Glockner (@erglo) a university graduate of Japanese Studies and Computational Linguistics.
+- 👋 Hi, I'm a university graduate of Japanese Studies and Computational Linguistics.
 - 👀 I’m interested in Python, Tkinter, Lua, GUI dev, web scraping, NLP, ML, addon dev, L10n.
-- 🌱 I’m currently learning Git/GitHub, version control in general. (Why haven't I started earlier? Could've saved me so much time.) :bento:
 - 💞️ I’m looking to collaborate on basically everything Python or Localisation (L10n).
 - 📫 How to reach me: Send me an email or notify me on GitHub.
 
